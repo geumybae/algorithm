@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Q1000 {
  
-    public static void main(String[] args) throws Exception {
+    public void go() {
         Scanner sc = new Scanner(System.in);
 
 		int A = sc.nextInt();
